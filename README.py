@@ -1,6 +1,6 @@
-Make sure you also download the dependencies
---------------------------------------------------------
-use this code in visual studios or what ever dont forget its python
+#########Make sure you also download the dependencies
+##--------------------------------------------------------
+##########use this code in visual studios or what ever dont forget its python
 
 
 
